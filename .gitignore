@@ -1,0 +1,26 @@
+﻿# Virtual Environment
+venv/
+ENV/
+env/
+
+# PyInstaller build artifacts
+build/
+*.spec
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*.class
+
+# IDEs & System files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Scratch & temporary test files
+*.tmp
+inspect_numbers.py
+test_parser.py
+test_out.xlsx
+filtered_export.xlsx
